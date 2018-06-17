@@ -1,4 +1,4 @@
-# pythondsbasics
+# Basics of Python of Data Science 
 Introduction to python for data science.
 
 <br>
